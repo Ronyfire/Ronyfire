@@ -36,15 +36,6 @@ I build complete web applications with an unusual mix of analytical thinking and
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nadee23&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadee23&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
-</p>
-
----
-
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
